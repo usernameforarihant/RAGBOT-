@@ -1,0 +1,61 @@
+# Core LangChain packages
+langchain==0.3.27
+langchain-core==0.3.79
+langchain-text-splitters==0.3.11
+langchain-community==0.3.31
+
+# # Standard tests (optional, mainly for development)
+# langchain-tests==0.3.22
+
+# Integrations
+langchain-openai==0.3.35
+# langchain-huggingface==0.3.1
+# langchain-google-vertexai==2.1.2
+# langchain-aws==0.2.35
+# langchain-anthropic==0.3.22
+# langchain-mistralai==0.2.12
+
+# Vector DB / RAG
+chromadb==0.5.23
+langchain-chroma==0.1.4
+# PDF / document loaders
+pymupdf==1.24.9
+
+# Embeddings
+openai==1.104.2 
+
+# Utilities
+tqdm==4.66.1 
+python-dotenv==1.0.0  
+
+
+streamlit==1.41.1
+
+
+
+
+# #claude# Core LangChain packages (v0.3.x)
+# langchain==0.3.27
+# langchain-core==0.3.40
+# langchain-community==0.3.27
+# langchain-text-splitters==0.3.4
+# langchain-openai==0.3.0
+
+# # OpenAI SDK
+# openai==1.58.1
+
+# # Vector Store
+# chromadb==0.5.23
+# langchain-chroma==0.1.4
+
+# # PDF Processing
+# pymupdf==1.25.1
+
+# # Streamlit
+# streamlit==1.41.1
+
+# # Additional dependencies
+tiktoken==0.8.0
+pydantic==2.10.3
+pydantic-settings==2.7.0
+SQLAlchemy==2.0.36
